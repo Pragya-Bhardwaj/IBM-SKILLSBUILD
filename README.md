@@ -9,7 +9,6 @@ Features
 4. Simple and lightweight implementation
 Installation
 1. Clone the Repository
-   git clone https://github.com/your-username/image-steganography.git
    cd image-steganography
    
 2. Install Dependencies
