@@ -1,4 +1,5 @@
-# IBM-SKILLSBUILD
+# IBM-SKILLSBUILD-SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+
 Overview
 This project demonstrates how to hide and extract secret messages within images using Python and OpenCV. Steganography provides an extra layer of security by concealing information within image pixels.
 
